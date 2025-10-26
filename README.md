@@ -53,8 +53,7 @@ Our champion model? **Random Forest** takes the crown!
 
 **1. Clone & Enter**
 ```bash
-git clone https://github.com/your-username/credit-card-fraud-detection.git
-cd credit-card-fraud-detection
+git clone git@github.com:shruteeegrg/ml-fraud-benchmark.git
 ```
 
 **2. Power Up**
